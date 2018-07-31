@@ -1,0 +1,445 @@
+Maggie: A Girl of the Streets
+ 0.5333333333333333
+The Metamorphosis
+ 0.6166666666666667
+Medea
+ 0.65
+Daisy Miller
+ 0.9
+The Cherry Orchard
+ 0.9
+The Little Foxes
+ 1.0166666666666666
+Ethan Frome
+ 1.0833333333333333
+Heart of Darkness
+ 1.1
+The Dead
+ 1.1333333333333333
+*A Doll’s House
+ 1.1333333333333333
+Death in Venice
+ 1.1333333333333333
+The Playboy of the Western World
+ 1.1333333333333333
+An Enemy of the People
+ 1.15
+All My Sons
+ 1.1833333333333333
+Dutchman
+ 1.2166666666666668
+Murder in the Cathedral
+ 1.2333333333333334
+Beloved
+ 1.2333333333333334
+The Sorrows of Young Werther
+ 1.35
+M. Butterfly
+ 1.4166666666666667
+Benito Cereno
+ 1.55
+The House on Mango Street
+ 1.55
+Mrs. Warren’s Profession
+ 1.7
+The Stranger
+ 1.7333333333333334
+Mansfield Park
+ 1.75
+Mother Courage and
+ 1.7833333333333332
+Her Children
+ 1.7833333333333332
+Rosencrantz and Guildenstern are
+ 1.8
+Waiting for Godot
+ 1.8
+Major Barbara
+ 1.8
+O! Pioneers
+ 1.8
+as a Young Man
+ 1.9166666666666665
+A Portrait of the Artist as a Young Man
+ 1.9166666666666665
+The Piano Lesson
+ 2.033333333333333
+A Raisin in the Sun
+ 2.1333333333333333
+A Raisin in the Sun
+ 2.1333333333333333
+Mountain
+ 2.15
+Siddhartha
+ 2.2666666666666666
+When the Emperor Was Divine
+ 2.2666666666666666
+The Age of Innocence
+ 2.283333333333333
+The Age of Innocence
+ 2.283333333333333
+Tartuffe
+ 2.3166666666666664
+Wide Sargasso Sea
+ 2.4833333333333334
+The Picture of Dorian Gray
+ 2.4833333333333334
+The Loved One
+ 2.4833333333333334
+Watch on the Rhine
+ 2.55
+Grendel
+ 2.716666666666667
+The Optimist’s Daughter
+ 2.716666666666667
+Pocho
+ 2.716666666666667
+Push
+ 2.716666666666667
+Sula
+ 2.716666666666667
+My Antonia
+ 2.716666666666667
+The Women of Brewster Place
+ 2.716666666666667
+Old School
+ 2.75
+The Mayor of
+ 2.8333333333333335
+A Separate Peace
+ 2.8833333333333333
+House Made of Dawn
+ 2.9333333333333336
+One Day in the Life Ivan Denisovich
+ 2.9333333333333336
+To the Lighthouse
+ 2.95
+The Woman Warrior
+ 2.95
+Middle Passage
+ 2.95
+*Things Fall Apart
+ 2.95
+Virginia Woolf?
+ 2.95
+Redburn
+ 2.966666666666667
+A Gathering of Old Men
+ 3.0166666666666666
+The Bluest Eye
+ 3.1666666666666665
+Mrs. Dalloway
+ 3.1666666666666665
+The Joys of Motherhood
+ 3.1666666666666665
+The Good Soldier
+ 3.2
+King Lear (SH)
+ 3.2
+Jude the Obscure
+ 3.25
+The Catcher in the Rye
+ 3.4
+The House of the Seven
+ 3.4
+The Power and the Glory
+ 3.4
+Gulliver’s Travels
+ 3.4
+Silas Marner
+ 3.4
+Solitude
+ 3.4
+A River Runs through It
+ 3.4
+Ceremony
+ 3.4333333333333336
+Dead
+ 3.5
+The Jungle
+ 3.533333333333333
+The Sun Also Rises
+ 3.55
+Fifth Business
+ 3.5666666666666664
+A Lesson Before Dying
+ 3.6166666666666667
+Jasmine
+ 3.6166666666666667
+Wise Blood
+ 3.6166666666666667
+Bless Me, Ultima
+ 3.7
+Kindred
+ 3.7333333333333334
+As I Lay Dying
+ 3.7666666666666666
+Brown Girl, Brownstones
+ 3.85
+One Flew Over the Cuckoo’s Nest
+ 3.85
+The Other
+ 3.85
+Who’s Afraid of
+ 3.85
+Go Tell It on the
+ 3.85
+*Emma
+ 3.8666666666666667
+No Exit
+ 3.8833333333333333
+Noah’s Compass
+ 3.9166666666666665
+A High Wind in Jamaica
+ 3.95
+The House of Mirth
+ 3.966666666666667
+The Road
+ 4.05
+Breath, Eyes, Memory
+ 4.066666666666666
+A Bend in the River
+ 4.066666666666666
+Man and Superman
+ 4.066666666666666
+Never Let Me Go
+ 4.066666666666666
+Snow Flower and the Secret Fan
+ 4.066666666666666
+The Namesake
+ 4.116666666666666
+Fathers and Sons
+ 4.183333333333334
+Obasan
+ 4.25
+All the Pretty Horses
+ 4.25
+The Color Purple
+ 4.3
+The Trial
+ 4.3
+The English Patient
+ 4.316666666666666
+No Country for Old Men
+ 4.366666666666666
+Mama Day
+ 4.416666666666667
+Absalom, Absalom!
+ 4.433333333333334
+Homegoing
+ 4.533333333333333
+The Plague
+ 4.533333333333333
+Reservation Blue
+ 4.533333333333333
+Linden Hills
+ 4.533333333333333
+Sister of My Heart
+ 4.55
+Bleak House
+ 4.55
+The Sound and the Fury
+ 4.616666666666667
+The God of Small Things
+ 4.716666666666667
+Orlando
+ 4.716666666666667
+In the Lake of the
+ 4.75
+The Secret Life of Bees
+ 4.75
+Dracula
+ 4.75
+Tolls
+ 4.75
+The Misanthrope
+ 4.75
+Persuasion
+ 4.75
+Henry IV, Part 1
+ 4.75
+Ragtime
+ 4.75
+Purple Hibiscus
+ 4.75
+Native Speaker
+ 4.933333333333334
+Atonement
+ 4.966666666666667
+Song of Solomon
+ 4.983333333333333
+Going After Cacciato
+ 4.983333333333333
+Lord Jim
+ 5.0
+Sister Carrie
+ 5.033333333333333
+A Farewell to Arms
+ 5.15
+A Passage to India
+ 5.2
+Oliver Twist
+ 5.2
+Extremely Loud and Incredibly Close
+ 5.2
+A Passage to India
+ 5.2
+America is in the Heart
+ 5.2
+A Passage to India
+ 5.2
+Moby Dick
+ 5.35
+A Thousand Acres
+ 5.433333333333334
+A Portrait of the Artist
+ 5.433333333333334
+A Gesture Life
+ 5.433333333333334
+Billy Budd
+ 5.433333333333334
+A Yellow Raft in the Blue Water 5.433333333333334
+Oryx and Crake
+ 5.5
+Joseph Andrews
+ 5.516666666666667
+The Kite Runner
+ 5.666666666666667
+The Memory Keeper’s Daughter
+ 5.666666666666667
+Wuthering Heights
+ 5.883333333333333
+The Brothers
+ 5.883333333333333
+One Hundred Years of
+ 5.9
+Crime and Punishment
+ 6.083333333333333
+The Crossing
+ 6.116666666666666
+Tom Jones
+ 6.116666666666666
+Brideshead Revisited
+ 6.116666666666666
+A Thousand Splendid Suns
+ 6.116666666666666
+The Street
+ 6.15
+Another Country
+ 6.333333333333333
+Beowulf
+ 6.333333333333333
+Black Boy
+ 6.333333333333333
+Hard Times
+ 6.333333333333333
+Casterbridge
+ 6.333333333333333
+The Moor’s Last Sigh
+ 6.333333333333333
+Cold Mountain
+ 6.35
+We Were the Mulvaneys
+ 6.416666666666667
+Snow Falling on Cedars
+ 6.516666666666667
+The Grapes of Wrath
+ 6.566666666666666
+Alias Grace
+ 6.616666666666667
+Alias Grace
+ 6.616666666666667
+The American
+ 6.8
+For Whom the Bell
+ 6.8
+Main Street
+ 6.8
+Kafka on the Shore
+ 6.8
+Pride and Prejudice
+ 6.8
+Cat’s Eye
+ 6.8
+Moll Flanders
+ 6.8
+The Aeneid
+ 6.85
+The Return of the Native
+ 7.016666666666667
+Gables
+ 7.033333333333333
+Light in August
+ 7.25
+Madame Bovary
+ 7.25
+Woods
+ 7.25
+Set This House on Fire
+ 7.366666666666666
+The Blind Assassin
+ 7.366666666666666
+A Tree Grows in Brooklyn
+ 7.466666666666667
+Midnight’s Children
+ 7.583333333333333
+All the Light We Cannot See
+ 7.7
+Middlesex
+ 7.7
+Catch-22
+ 7.7
+Frankenstein
+ 7.7
+The Mill on the Floss
+ 7.7
+The Power of One
+ 7.7
+Native Son
+ 7.7
+Jane Eyre
+ 7.933333333333334
+Sophie’s Choice
+ 8.15
+The Poisonwood Bible
+ 8.15
+The Chosen
+ 8.15
+Invisible Man (by Ralph Ellison)
+ 8.216666666666667
+Tess of the D’Urbervilles
+ 8.383333333333333
+The Adventures of the Augie March
+ 8.6
+The Story of Edgar Sawtelle
+ 8.6
+A Prayer for Owen Meany
+ 8.866666666666667
+The Portrait of a Lady
+ 9.066666666666666
+The Cider House Rules
+ 9.066666666666666
+All the King’s Men
+ 9.283333333333333
+Angle of Repose
+ 9.516666666666667
+East of Eden
+ 9.783333333333333
+Doctor Zhivago
+ 9.966666666666667
+The Illiad
+ 9.966666666666667
+The Goldfinch
+ 10.916666666666666
+Anna Karenina
+ 12.233333333333333
+Middlemarch
+ 12.466666666666667
+An American Tragedy
+ 12.683333333333334
+Our Mutual Friend
+ 13.133333333333333
+Karamazov
+ 13.6
+David Copperfield
+ 14.5
